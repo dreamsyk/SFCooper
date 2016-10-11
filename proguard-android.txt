@@ -1,0 +1,7 @@
+#  zxing包
+-libraryjars libs/zxing.jar
+
+#-keep class com.google.zxing.client.android.*Activity
+#-keep class com.google.zxing.client.android.ViewfinderView { public * ; }
+#-keep class com.google.zxing.client.android.book.SearchBookContents* { public * ; }
+#-keep public class com.google.zxing.client.android.BarcodeReaderCaptureActivity

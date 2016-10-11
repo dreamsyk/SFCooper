@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/web_msg_unread_height"
+    android:background="@drawable/pd_item_enable_bg"
+    android:visibility="visible" >
+
+    <ImageView
+        android:id="@+id/history_item_icon"
+        android:layout_width="@dimen/web_msg_unread_icon_width"
+        android:layout_height="@dimen/web_msg_unread_icon_width"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15.0dip"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sf_logo" />
+
+    <TextView
+        android:id="@+id/history_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/history_item_icon"
+        android:layout_marginLeft="26.0dip"
+        android:layout_toRightOf="@id/history_item_icon"
+        android:maxLength="10"
+        android:singleLine="true"
+        android:textColor="#ff515358"
+        android:textSize="@dimen/web_msg_unread_text_title" />
+
+    <TextView
+        android:id="@+id/history_item_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/history_item_title"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="25.0dip"
+        android:textColor="#ffa1a1a1"
+        android:textSize="@dimen/web_msg_unread_text_time" />
+
+    <TextView
+        android:id="@+id/history_item_content_detail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/history_item_icon"
+        android:layout_marginLeft="26.0dip"
+        android:layout_marginRight="15.0dip"
+        android:layout_toRightOf="@id/history_item_icon"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/pdn_gray"
+        android:textSize="@dimen/web_msg_unread_text_content" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5500001dip"
+        android:layout_alignParentBottom="true"
+        android:background="#ffe1e1e1" />
+</RelativeLayout>

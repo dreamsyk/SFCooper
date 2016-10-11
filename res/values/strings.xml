@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">正德顺丰</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- 欢迎页面 -->
+    <string name="splash_main_name">正德学院顺丰平台</string>
+    <string name="splash_main_name_eng">Zhengde college SF platform</string>
+    <string name="copyright_msg"> CopyRight @ www.zdxy.cn </string>
+    <!-- 欢迎页面 -->
+
+
+    <!-- 首页 -->
+    <string name="title_activity_index">@string/splash_main_name</string>
+    <string name="scan_text">将条码/二维码放入框内, 即可自动扫描</string>
+    <!-- 首页 -->
+
+    <string name="loading_summary">正在努力的加载中...</string>
+
+    <!-- 收货地址 -->
+    <string name="delivery_add_new">添加收货地址</string>
+    <string name="no_delivery">您暂无收货地址</string>
+    <string name="delivery_add">新增收货地址</string>
+    <string name="fuxk_settle_delivery_append_name">收货人姓名</string>
+    <string name="fuxk_settle_delivery_append_province">学校</string>
+    <string name="fuxk_settle_delivery_append_town">地区</string>
+    <string name="fuxk_settle_delivery_append_street">详细地址</string>
+    <string name="fuxk_settle_delivery_append_zip_code">邮编</string>
+    <string name="fuxk_settle_delivery_append_mb_tel">联系方式</string>
+    <string name="fuxk_settle_delivery_append_tel">固定电话</string>
+    <string name="delivery_edit">编辑</string>
+    <string name="delivery_update">更新</string>
+    <string name="delivery_set_default">设为默认</string>
+    <string name="delivery_new_default">新增默认地址</string>
+    <string name="delivery_delete">删除</string>
+    <string name="fuxk_settle_delivery_append_tip">手机和固定电话，选择其中一项填写即可。</string>
+    <!-- 收货地址 -->
+
+</resources>

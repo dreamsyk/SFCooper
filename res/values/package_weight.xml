@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="package_weights">
+        <item >0 ~ 5 KG</item>
+        <item >6 ~ 10 KG</item>
+        <item >11 ~ 20 KG</item>
+        <item >20KG 以上</item>
+    </string-array>
+    
+</resources>

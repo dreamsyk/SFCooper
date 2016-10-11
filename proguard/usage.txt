@@ -1,0 +1,1381 @@
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoJellyBeanMr2
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoStubImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompatIcs
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompatJellyBeanMr2
+android.support.v4.app.ActionBarDrawerToggle
+android.support.v4.app.ActionBarDrawerToggle$1
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImpl
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImplBase
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImplHC
+android.support.v4.app.ActionBarDrawerToggle$Delegate
+android.support.v4.app.ActionBarDrawerToggle$DelegateProvider
+android.support.v4.app.ActionBarDrawerToggle$SlideDrawable
+android.support.v4.app.ActionBarDrawerToggleHoneycomb
+android.support.v4.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo
+android.support.v4.app.ActivityCompat
+android.support.v4.app.ActivityCompatHoneycomb
+android.support.v4.app.ActivityCompatJB
+android.support.v4.app.ActivityOptionsCompat
+android.support.v4.app.ActivityOptionsCompat$ActivityOptionsImplJB
+android.support.v4.app.ActivityOptionsCompatJB
+android.support.v4.app.BackStackRecord
+android.support.v4.app.BackStackRecord$Op
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState$1
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment
+android.support.v4.app.Fragment$1
+android.support.v4.app.Fragment$InstantiationException
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState$1
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentActivity$1
+android.support.v4.app.FragmentActivity$2
+android.support.v4.app.FragmentActivity$FragmentTag
+android.support.v4.app.FragmentActivity$NonConfigurationInstances
+android.support.v4.app.FragmentContainer
+android.support.v4.app.FragmentManager
+android.support.v4.app.FragmentManager$BackStackEntry
+android.support.v4.app.FragmentManager$OnBackStackChangedListener
+android.support.v4.app.FragmentManagerImpl
+android.support.v4.app.FragmentManagerImpl$1
+android.support.v4.app.FragmentManagerImpl$2
+android.support.v4.app.FragmentManagerImpl$3
+android.support.v4.app.FragmentManagerImpl$4
+android.support.v4.app.FragmentManagerImpl$5
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState$1
+android.support.v4.app.FragmentPagerAdapter
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState$1
+android.support.v4.app.FragmentStatePagerAdapter
+android.support.v4.app.FragmentTabHost
+android.support.v4.app.FragmentTabHost$1
+android.support.v4.app.FragmentTabHost$DummyTabFactory
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState$1
+android.support.v4.app.FragmentTabHost$TabInfo
+android.support.v4.app.FragmentTransaction
+android.support.v4.app.ListFragment
+android.support.v4.app.ListFragment$1
+android.support.v4.app.ListFragment$2
+android.support.v4.app.LoaderManager
+android.support.v4.app.LoaderManager$LoaderCallbacks
+android.support.v4.app.LoaderManagerImpl
+android.support.v4.app.LoaderManagerImpl$LoaderInfo
+android.support.v4.app.NavUtils
+android.support.v4.app.NavUtils$NavUtilsImpl
+android.support.v4.app.NavUtils$NavUtilsImplBase
+android.support.v4.app.NavUtils$NavUtilsImplJB
+android.support.v4.app.NavUtilsJB
+android.support.v4.app.NoSaveStateFrameLayout
+android.support.v4.app.NotificationCompat
+android.support.v4.app.NotificationCompat$Action
+android.support.v4.app.NotificationCompat$BigPictureStyle
+android.support.v4.app.NotificationCompat$BigTextStyle
+android.support.v4.app.NotificationCompat$Builder
+android.support.v4.app.NotificationCompat$InboxStyle
+android.support.v4.app.NotificationCompat$NotificationCompatImpl
+android.support.v4.app.NotificationCompat$NotificationCompatImplBase
+android.support.v4.app.NotificationCompat$NotificationCompatImplHoneycomb
+android.support.v4.app.NotificationCompat$NotificationCompatImplIceCreamSandwich
+android.support.v4.app.NotificationCompat$NotificationCompatImplJellybean
+android.support.v4.app.NotificationCompat$Style
+android.support.v4.app.NotificationCompatHoneycomb
+android.support.v4.app.NotificationCompatIceCreamSandwich
+android.support.v4.app.NotificationCompatJellybean
+android.support.v4.app.ServiceCompat
+android.support.v4.app.ShareCompat
+android.support.v4.app.ShareCompat$IntentBuilder
+android.support.v4.app.ShareCompat$IntentReader
+android.support.v4.app.ShareCompat$ShareCompatImpl
+android.support.v4.app.ShareCompat$ShareCompatImplBase
+android.support.v4.app.ShareCompat$ShareCompatImplICS
+android.support.v4.app.ShareCompat$ShareCompatImplJB
+android.support.v4.app.ShareCompatICS
+android.support.v4.app.ShareCompatJB
+android.support.v4.app.SuperNotCalledException
+android.support.v4.app.TaskStackBuilder
+android.support.v4.app.TaskStackBuilder$SupportParentable
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImpl
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplBase
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplHoneycomb
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplJellybean
+android.support.v4.app.TaskStackBuilderHoneycomb
+android.support.v4.app.TaskStackBuilderJellybean
+android.support.v4.content.AsyncTaskLoader
+android.support.v4.content.AsyncTaskLoader$LoadTask
+android.support.v4.content.ContextCompat
+android.support.v4.content.ContextCompatFroyo
+android.support.v4.content.ContextCompatHoneycomb
+android.support.v4.content.ContextCompatJellybean
+android.support.v4.content.ContextCompatKitKat
+android.support.v4.content.CursorLoader
+android.support.v4.content.FileProvider
+android.support.v4.content.FileProvider$PathStrategy
+android.support.v4.content.FileProvider$SimplePathStrategy
+android.support.v4.content.IntentCompat
+android.support.v4.content.IntentCompat$IntentCompatImpl
+android.support.v4.content.IntentCompat$IntentCompatImplBase
+android.support.v4.content.IntentCompat$IntentCompatImplHC
+android.support.v4.content.IntentCompat$IntentCompatImplIcsMr1
+android.support.v4.content.IntentCompatHoneycomb
+android.support.v4.content.IntentCompatIcsMr1
+android.support.v4.content.Loader
+android.support.v4.content.Loader$ForceLoadContentObserver
+android.support.v4.content.Loader$OnLoadCompleteListener
+android.support.v4.content.LocalBroadcastManager
+android.support.v4.content.LocalBroadcastManager$1
+android.support.v4.content.LocalBroadcastManager$BroadcastRecord
+android.support.v4.content.LocalBroadcastManager$ReceiverRecord
+android.support.v4.content.ModernAsyncTask
+android.support.v4.content.ModernAsyncTask$1
+android.support.v4.content.ModernAsyncTask$2
+android.support.v4.content.ModernAsyncTask$3
+android.support.v4.content.ModernAsyncTask$4
+android.support.v4.content.ModernAsyncTask$AsyncTaskResult
+android.support.v4.content.ModernAsyncTask$InternalHandler
+android.support.v4.content.ModernAsyncTask$Status
+android.support.v4.content.ModernAsyncTask$WorkerRunnable
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.content.pm.ActivityInfoCompat
+android.support.v4.database.DatabaseUtilsCompat
+android.support.v4.graphics.drawable.DrawableCompat
+android.support.v4.graphics.drawable.DrawableCompat$BaseDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$DrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$HoneycombDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$KitKatDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompatHoneycomb
+android.support.v4.graphics.drawable.DrawableCompatKitKat
+android.support.v4.hardware.display.DisplayManagerCompat
+android.support.v4.hardware.display.DisplayManagerCompat$JellybeanMr1Impl
+android.support.v4.hardware.display.DisplayManagerCompat$LegacyImpl
+android.support.v4.hardware.display.DisplayManagerJellybeanMr1
+android.support.v4.internal.view.SupportMenu
+android.support.v4.internal.view.SupportMenuItem
+android.support.v4.internal.view.SupportSubMenu
+android.support.v4.media.TransportController
+android.support.v4.media.TransportMediator
+android.support.v4.media.TransportMediator$1
+android.support.v4.media.TransportMediator$2
+android.support.v4.media.TransportMediatorCallback
+android.support.v4.media.TransportMediatorJellybeanMR2
+android.support.v4.media.TransportMediatorJellybeanMR2$1
+android.support.v4.media.TransportMediatorJellybeanMR2$2
+android.support.v4.media.TransportMediatorJellybeanMR2$3
+android.support.v4.media.TransportMediatorJellybeanMR2$4
+android.support.v4.media.TransportPerformer
+android.support.v4.media.TransportStateListener
+android.support.v4.net.ConnectivityManagerCompat
+android.support.v4.net.ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$GingerbreadConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompatGingerbread
+android.support.v4.net.ConnectivityManagerCompatHoneycombMR2
+android.support.v4.net.ConnectivityManagerCompatJellyBean
+android.support.v4.net.TrafficStatsCompat
+android.support.v4.net.TrafficStatsCompat$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$SocketTags
+android.support.v4.net.TrafficStatsCompat$IcsTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$TrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompatIcs
+android.support.v4.os.EnvironmentCompat
+android.support.v4.os.EnvironmentCompatKitKat
+android.support.v4.os.ParcelableCompat
+android.support.v4.os.ParcelableCompat$CompatCreator
+android.support.v4.os.ParcelableCompatCreatorCallbacks
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2Stub
+android.support.v4.print.PrintHelper
+android.support.v4.print.PrintHelper$1
+android.support.v4.print.PrintHelper$PrintHelperKitkatImpl
+android.support.v4.print.PrintHelper$PrintHelperStubImpl
+android.support.v4.print.PrintHelper$PrintHelperVersionImpl
+android.support.v4.print.PrintHelperKitkat
+android.support.v4.print.PrintHelperKitkat$1
+android.support.v4.text.BidiFormatter
+android.support.v4.text.BidiFormatter$1
+android.support.v4.text.BidiFormatter$Builder
+android.support.v4.text.BidiFormatter$DirectionalityEstimator
+android.support.v4.text.ICUCompat
+android.support.v4.text.ICUCompat$ICUCompatImpl
+android.support.v4.text.ICUCompat$ICUCompatImplBase
+android.support.v4.text.ICUCompat$ICUCompatImplIcs
+android.support.v4.text.ICUCompatIcs
+android.support.v4.text.TextDirectionHeuristicCompat
+android.support.v4.text.TextDirectionHeuristicsCompat
+android.support.v4.text.TextDirectionHeuristicsCompat$1
+android.support.v4.text.TextDirectionHeuristicsCompat$AnyStrong
+android.support.v4.text.TextDirectionHeuristicsCompat$FirstStrong
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionAlgorithm
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicImpl
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicLocale
+android.support.v4.text.TextUtilsCompat
+android.support.v4.util.ArrayMap
+android.support.v4.util.ArrayMap$1
+android.support.v4.util.AtomicFile
+android.support.v4.util.ContainerHelpers
+android.support.v4.util.DebugUtils
+android.support.v4.util.LogWriter
+android.support.v4.util.LongSparseArray
+android.support.v4.util.LruCache
+android.support.v4.util.MapCollections
+android.support.v4.util.MapCollections$ArrayIterator
+android.support.v4.util.MapCollections$EntrySet
+android.support.v4.util.MapCollections$KeySet
+android.support.v4.util.MapCollections$MapIterator
+android.support.v4.util.MapCollections$ValuesCollection
+android.support.v4.util.SimpleArrayMap
+android.support.v4.util.SparseArrayCompat
+android.support.v4.util.TimeUtils
+android.support.v4.view.AccessibilityDelegateCompat
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateStubImpl
+android.support.v4.view.AccessibilityDelegateCompatIcs
+android.support.v4.view.AccessibilityDelegateCompatIcs$1
+android.support.v4.view.AccessibilityDelegateCompatIcs$AccessibilityDelegateBridge
+android.support.v4.view.AccessibilityDelegateCompatJellyBean
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$1
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$AccessibilityDelegateBridgeJellyBean
+android.support.v4.view.ActionProvider
+android.support.v4.view.ActionProvider$SubUiVisibilityListener
+android.support.v4.view.ActionProvider$VisibilityListener
+android.support.v4.view.GestureDetectorCompat
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImpl
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2
+android.support.v4.view.GravityCompat
+android.support.v4.view.GravityCompat$GravityCompatImpl
+android.support.v4.view.GravityCompat$GravityCompatImplBase
+android.support.v4.view.GravityCompat$GravityCompatImplJellybeanMr1
+android.support.v4.view.GravityCompatJellybeanMr1
+android.support.v4.view.KeyEventCompat
+android.support.v4.view.KeyEventCompat$BaseKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$EclairKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$HoneycombKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$KeyEventVersionImpl
+android.support.v4.view.KeyEventCompatEclair
+android.support.v4.view.KeyEventCompatHoneycomb
+android.support.v4.view.MarginLayoutParamsCompat
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImpl
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImplBase
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImplJbMr1
+android.support.v4.view.MarginLayoutParamsCompatJellybeanMr1
+android.support.v4.view.MenuCompat
+android.support.v4.view.MenuItemCompat
+android.support.v4.view.MenuItemCompat$BaseMenuVersionImpl
+android.support.v4.view.MenuItemCompat$HoneycombMenuVersionImpl
+android.support.v4.view.MenuItemCompat$IcsMenuVersionImpl
+android.support.v4.view.MenuItemCompat$IcsMenuVersionImpl$1
+android.support.v4.view.MenuItemCompat$MenuVersionImpl
+android.support.v4.view.MenuItemCompat$OnActionExpandListener
+android.support.v4.view.MenuItemCompatHoneycomb
+android.support.v4.view.MenuItemCompatIcs
+android.support.v4.view.MenuItemCompatIcs$OnActionExpandListenerWrapper
+android.support.v4.view.MenuItemCompatIcs$SupportActionExpandProxy
+android.support.v4.view.MotionEventCompat
+android.support.v4.view.MotionEventCompat$BaseMotionEventVersionImpl
+android.support.v4.view.MotionEventCompat$EclairMotionEventVersionImpl
+android.support.v4.view.MotionEventCompat$MotionEventVersionImpl
+android.support.v4.view.MotionEventCompatEclair
+android.support.v4.view.PagerAdapter
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip$1
+android.support.v4.view.PagerTabStrip$2
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip$1
+android.support.v4.view.PagerTitleStrip$PageListener
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImpl
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplBase
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplIcs
+android.support.v4.view.PagerTitleStripIcs
+android.support.v4.view.PagerTitleStripIcs$SingleLineAllCapsTransform
+android.support.v4.view.ScaleGestureDetectorCompat
+android.support.v4.view.ScaleGestureDetectorCompat$1
+android.support.v4.view.ScaleGestureDetectorCompat$BaseScaleGestureDetectorImpl
+android.support.v4.view.ScaleGestureDetectorCompat$ScaleGestureDetectorCompatKitKatImpl
+android.support.v4.view.ScaleGestureDetectorCompat$ScaleGestureDetectorImpl
+android.support.v4.view.ScaleGestureDetectorCompatKitKat
+android.support.v4.view.VelocityTrackerCompat
+android.support.v4.view.VelocityTrackerCompat$BaseVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$VelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompatHoneycomb
+android.support.v4.view.ViewCompat
+android.support.v4.view.ViewCompat$BaseViewCompatImpl
+android.support.v4.view.ViewCompat$EclairMr1ViewCompatImpl
+android.support.v4.view.ViewCompat$GBViewCompatImpl
+android.support.v4.view.ViewCompat$HCViewCompatImpl
+android.support.v4.view.ViewCompat$ICSViewCompatImpl
+android.support.v4.view.ViewCompat$JBViewCompatImpl
+android.support.v4.view.ViewCompat$JbMr1ViewCompatImpl
+android.support.v4.view.ViewCompat$KitKatViewCompatImpl
+android.support.v4.view.ViewCompat$ViewCompatImpl
+android.support.v4.view.ViewCompatEclairMr1
+android.support.v4.view.ViewCompatGingerbread
+android.support.v4.view.ViewCompatHC
+android.support.v4.view.ViewCompatICS
+android.support.v4.view.ViewCompatJB
+android.support.v4.view.ViewCompatJellybeanMr1
+android.support.v4.view.ViewCompatKitKat
+android.support.v4.view.ViewConfigurationCompat
+android.support.v4.view.ViewConfigurationCompat$BaseViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$FroyoViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$ViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompatFroyo
+android.support.v4.view.ViewGroupCompat
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatHCImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatIcsImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatJellybeanMR2Impl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatStubImpl
+android.support.v4.view.ViewGroupCompatHC
+android.support.v4.view.ViewGroupCompatIcs
+android.support.v4.view.ViewGroupCompatJellybeanMR2
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager$1
+android.support.v4.view.ViewPager$2
+android.support.v4.view.ViewPager$3
+android.support.v4.view.ViewPager$Decor
+android.support.v4.view.ViewPager$ItemInfo
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$MyAccessibilityDelegate
+android.support.v4.view.ViewPager$OnAdapterChangeListener
+android.support.v4.view.ViewPager$OnPageChangeListener
+android.support.v4.view.ViewPager$PageTransformer
+android.support.v4.view.ViewPager$PagerObserver
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState$1
+android.support.v4.view.ViewPager$SimpleOnPageChangeListener
+android.support.v4.view.ViewPager$ViewPositionComparator
+android.support.v4.view.ViewParentCompat
+android.support.v4.view.ViewParentCompat$ViewParentCompatICSImpl
+android.support.v4.view.ViewParentCompat$ViewParentCompatImpl
+android.support.v4.view.ViewParentCompat$ViewParentCompatStubImpl
+android.support.v4.view.ViewParentCompatICS
+android.support.v4.view.WindowCompat
+android.support.v4.view.accessibility.AccessibilityEventCompat
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventIcsImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventStubImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventVersionImpl
+android.support.v4.view.accessibility.AccessibilityEventCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl$1
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerStubImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerVersionImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$1
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$AccessibilityStateChangeListenerBridge
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoIcsImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanMr2Impl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoKitKatImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatIcs
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatJellybeanMr2
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatKitKat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$AccessibilityNodeInfoBridge
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat$AccessibilityNodeInfoBridge
+android.support.v4.view.accessibility.AccessibilityRecordCompat
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsMr1Impl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordStubImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcs
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcsMr1
+android.support.v4.view.accessibility.AccessibilityRecordCompatJellyBean
+android.support.v4.widget.AutoScrollHelper
+android.support.v4.widget.AutoScrollHelper$1
+android.support.v4.widget.AutoScrollHelper$ClampedScroller
+android.support.v4.widget.AutoScrollHelper$ScrollAnimationRunnable
+android.support.v4.widget.ContentLoadingProgressBar
+android.support.v4.widget.ContentLoadingProgressBar$1
+android.support.v4.widget.ContentLoadingProgressBar$2
+android.support.v4.widget.CursorAdapter
+android.support.v4.widget.CursorAdapter$1
+android.support.v4.widget.CursorAdapter$ChangeObserver
+android.support.v4.widget.CursorAdapter$MyDataSetObserver
+android.support.v4.widget.CursorFilter
+android.support.v4.widget.CursorFilter$CursorFilterClient
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout$AccessibilityDelegate
+android.support.v4.widget.DrawerLayout$DrawerListener
+android.support.v4.widget.DrawerLayout$LayoutParams
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState$1
+android.support.v4.widget.DrawerLayout$SimpleDrawerListener
+android.support.v4.widget.DrawerLayout$ViewDragCallback
+android.support.v4.widget.DrawerLayout$ViewDragCallback$1
+android.support.v4.widget.EdgeEffectCompat
+android.support.v4.widget.EdgeEffectCompat$BaseEdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectIcsImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompatIcs
+android.support.v4.widget.ExploreByTouchHelper
+android.support.v4.widget.ExploreByTouchHelper$1
+android.support.v4.widget.ExploreByTouchHelper$ExploreByTouchNodeProvider
+android.support.v4.widget.ListPopupWindowCompat
+android.support.v4.widget.ListPopupWindowCompat$BaseListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompat$KitKatListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompat$ListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompatKitKat
+android.support.v4.widget.ListViewAutoScrollHelper
+android.support.v4.widget.PopupMenuCompat
+android.support.v4.widget.PopupMenuCompat$BasePopupMenuImpl
+android.support.v4.widget.PopupMenuCompat$KitKatPopupMenuImpl
+android.support.v4.widget.PopupMenuCompat$PopupMenuImpl
+android.support.v4.widget.PopupMenuCompatKitKat
+android.support.v4.widget.ResourceCursorAdapter
+android.support.v4.widget.ScrollerCompat
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImpl
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplBase
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplGingerbread
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplIcs
+android.support.v4.widget.ScrollerCompatGingerbread
+android.support.v4.widget.ScrollerCompatIcs
+android.support.v4.widget.SearchViewCompat
+android.support.v4.widget.SearchViewCompat$OnCloseListenerCompat
+android.support.v4.widget.SearchViewCompat$OnQueryTextListenerCompat
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl$1
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl$2
+android.support.v4.widget.SearchViewCompat$SearchViewCompatIcsImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatStubImpl
+android.support.v4.widget.SearchViewCompatHoneycomb
+android.support.v4.widget.SearchViewCompatHoneycomb$1
+android.support.v4.widget.SearchViewCompatHoneycomb$2
+android.support.v4.widget.SearchViewCompatHoneycomb$OnCloseListenerCompatBridge
+android.support.v4.widget.SearchViewCompatHoneycomb$OnQueryTextListenerCompatBridge
+android.support.v4.widget.SearchViewCompatIcs
+android.support.v4.widget.SearchViewCompatIcs$MySearchView
+android.support.v4.widget.SimpleCursorAdapter
+android.support.v4.widget.SimpleCursorAdapter$CursorToStringConverter
+android.support.v4.widget.SimpleCursorAdapter$ViewBinder
+android.support.v4.widget.SlidingPaneLayout
+android.support.v4.widget.SlidingPaneLayout$1
+android.support.v4.widget.SlidingPaneLayout$AccessibilityDelegate
+android.support.v4.widget.SlidingPaneLayout$DisableLayerRunnable
+android.support.v4.widget.SlidingPaneLayout$DragHelperCallback
+android.support.v4.widget.SlidingPaneLayout$LayoutParams
+android.support.v4.widget.SlidingPaneLayout$PanelSlideListener
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState$1
+android.support.v4.widget.SlidingPaneLayout$SimplePanelSlideListener
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImpl
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplBase
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplJB
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplJBMR1
+android.support.v4.widget.ViewDragHelper
+android.support.v4.widget.ViewDragHelper$1
+android.support.v4.widget.ViewDragHelper$2
+android.support.v4.widget.ViewDragHelper$Callback
+com.google.zxing.BarcodeFormat:
+    85:85:public java.lang.String getName()
+    93:100:public static com.google.zxing.BarcodeFormat valueOf(java.lang.String)
+com.google.zxing.BinaryBitmap:
+    93:93:public boolean isCropSupported()
+    107:108:public com.google.zxing.BinaryBitmap crop(int,int,int,int)
+com.google.zxing.EncodeHintType
+com.google.zxing.LuminanceSource:
+    80:80:public boolean isCropSupported()
+    94:94:public com.google.zxing.LuminanceSource crop(int,int,int,int)
+com.google.zxing.MultiFormatReader:
+    50:51:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.MultiFormatWriter
+com.google.zxing.Reader:
+    public abstract com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.Result:
+    70:70:public byte[] getRawBytes()
+    132:132:public long getTimestamp()
+com.google.zxing.ResultMetadataType:
+    91:91:public java.lang.String getName()
+    99:106:public static com.google.zxing.ResultMetadataType valueOf(java.lang.String)
+com.google.zxing.Writer
+com.google.zxing.WriterException
+com.google.zxing.client.result.AbstractDoCoMoResultParser
+com.google.zxing.client.result.AddressBookAUResultParser
+com.google.zxing.client.result.AddressBookDoCoMoResultParser
+com.google.zxing.client.result.AddressBookParsedResult
+com.google.zxing.client.result.BizcardResultParser
+com.google.zxing.client.result.BookmarkDoCoMoResultParser
+com.google.zxing.client.result.CalendarParsedResult
+com.google.zxing.client.result.EmailAddressParsedResult
+com.google.zxing.client.result.EmailAddressResultParser
+com.google.zxing.client.result.EmailDoCoMoResultParser
+com.google.zxing.client.result.ExpandedProductParsedResult
+com.google.zxing.client.result.ExpandedProductResultParser
+com.google.zxing.client.result.GeoParsedResult
+com.google.zxing.client.result.GeoResultParser
+com.google.zxing.client.result.ISBNParsedResult
+com.google.zxing.client.result.ISBNResultParser
+com.google.zxing.client.result.ParsedResult
+com.google.zxing.client.result.ParsedResultType
+com.google.zxing.client.result.ProductParsedResult
+com.google.zxing.client.result.ProductResultParser
+com.google.zxing.client.result.ResultParser
+com.google.zxing.client.result.SMSMMSResultParser
+com.google.zxing.client.result.SMSParsedResult
+com.google.zxing.client.result.SMSTOMMSTOResultParser
+com.google.zxing.client.result.TelParsedResult
+com.google.zxing.client.result.TelResultParser
+com.google.zxing.client.result.TextParsedResult
+com.google.zxing.client.result.URIParsedResult
+com.google.zxing.client.result.URIResultParser
+com.google.zxing.client.result.URLTOResultParser
+com.google.zxing.client.result.VCardResultParser
+com.google.zxing.client.result.VEventResultParser
+com.google.zxing.client.result.WifiParsedResult
+com.google.zxing.client.result.WifiResultParser
+com.google.zxing.client.result.optional.AbstractNDEFResultParser
+com.google.zxing.client.result.optional.NDEFRecord
+com.google.zxing.client.result.optional.NDEFSmartPosterParsedResult
+com.google.zxing.client.result.optional.NDEFSmartPosterResultParser
+com.google.zxing.client.result.optional.NDEFTextResultParser
+com.google.zxing.client.result.optional.NDEFURIResultParser
+com.google.zxing.common.BitArray:
+    48:48:public int getSizeInBytes()
+    52:57:private void ensureCapacity(int)
+    82:83:public void flip(int)
+    93:94:public void setBulk(int,int)
+    148:153:public void appendBit(boolean)
+    161:168:public void appendBits(int,int)
+    171:176:public void appendBitArray(com.google.zxing.common.BitArray)
+    179:187:public void xor(com.google.zxing.common.BitArray)
+    198:208:public void toBytes(int,byte[],int,int)
+    215:215:public int[] getBitArray()
+com.google.zxing.common.BitMatrix:
+    95:99:public void clear()
+    138:145:public com.google.zxing.common.BitArray getRow(int,com.google.zxing.common.BitArray)
+com.google.zxing.common.CharacterSetECI:
+    104:107:public static com.google.zxing.common.CharacterSetECI getCharacterSetECIByName(java.lang.String)
+com.google.zxing.common.Collections:
+    29:30:private Collections()
+com.google.zxing.common.ECI:
+    34:34:public int getValue()
+    43:49:public static com.google.zxing.common.ECI getECIByValue(int)
+com.google.zxing.common.GlobalHistogramBinarizer:
+    private static final int LUMINANCE_BITS
+    private static final int LUMINANCE_SHIFT
+    private static final int LUMINANCE_BUCKETS
+com.google.zxing.common.GridSampler:
+    48:52:public static void setGridSampler(com.google.zxing.common.GridSampler)
+com.google.zxing.common.HybridBinarizer:
+    private static final int MINIMUM_DIMENSION
+com.google.zxing.common.PerspectiveTransform:
+    80:88:public void transformPoints(float[],float[])
+com.google.zxing.common.StringUtils:
+    public static final java.lang.String SHIFT_JIS
+    private static final java.lang.String EUC_JP
+    private static final java.lang.String UTF8
+    private static final java.lang.String ISO88591
+    40:40:private StringUtils()
+com.google.zxing.common.detector.MonochromeRectangleDetector
+com.google.zxing.common.detector.WhiteRectangleDetector:
+    private static final int INIT_SIZE
+    private static final int CORR
+com.google.zxing.common.reedsolomon.GF256Poly:
+    70:70:int[] getCoefficients()
+    201:223:com.google.zxing.common.reedsolomon.GF256Poly[] divide(com.google.zxing.common.reedsolomon.GF256Poly)
+com.google.zxing.common.reedsolomon.ReedSolomonEncoder
+com.google.zxing.datamatrix.DataMatrixReader:
+    57:57:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.datamatrix.decoder.DecodedBitStreamParser:
+    private static final int PAD_ENCODE
+    private static final int ASCII_ENCODE
+    private static final int C40_ENCODE
+    private static final int TEXT_ENCODE
+    private static final int ANSIX12_ENCODE
+    private static final int EDIFACT_ENCODE
+    private static final int BASE256_ENCODE
+    75:76:private DecodedBitStreamParser()
+com.google.zxing.datamatrix.decoder.Decoder:
+    51:60:public com.google.zxing.common.DecoderResult decode(boolean[][])
+com.google.zxing.multi.ByQuadrantReader
+com.google.zxing.multi.GenericMultipleBarcodeReader
+com.google.zxing.multi.MultipleBarcodeReader
+com.google.zxing.multi.qrcode.QRCodeMultiReader
+com.google.zxing.multi.qrcode.detector.MultiDetector
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder$ModuleSizeComparator
+com.google.zxing.oned.CodaBarReader:
+    private static final java.lang.String ALPHABET_STRING
+    private static final int minCharacterLength
+com.google.zxing.oned.Code128Reader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int CODE_SHIFT
+    private static final int CODE_CODE_C
+    private static final int CODE_CODE_B
+    private static final int CODE_CODE_A
+    private static final int CODE_FNC_1
+    private static final int CODE_FNC_2
+    private static final int CODE_FNC_3
+    private static final int CODE_FNC_4_A
+    private static final int CODE_FNC_4_B
+    private static final int CODE_START_A
+    private static final int CODE_START_B
+    private static final int CODE_START_C
+    private static final int CODE_STOP
+com.google.zxing.oned.Code128Writer
+com.google.zxing.oned.Code39Reader:
+    static final java.lang.String ALPHABET_STRING
+    89:92:public Code39Reader(boolean,boolean)
+com.google.zxing.oned.Code39Writer
+com.google.zxing.oned.Code93Reader:
+    private static final java.lang.String ALPHABET_STRING
+com.google.zxing.oned.EAN13Writer
+com.google.zxing.oned.EAN8Writer
+com.google.zxing.oned.ITFReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int W
+    private static final int N
+com.google.zxing.oned.ITFWriter
+com.google.zxing.oned.OneDReader:
+    protected static final int INTEGER_MATH_SHIFT
+    protected static final int PATTERN_MATCH_RESULT_SCALE_FACTOR
+    47:47:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.oned.UPCAReader:
+    50:50:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.oned.UPCEANReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+com.google.zxing.oned.UPCEANWriter
+com.google.zxing.oned.rss.AbstractRSSReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final float MIN_FINDER_PATTERN_RATIO
+    private static final float MAX_FINDER_PATTERN_RATIO
+com.google.zxing.oned.rss.RSSUtils:
+    22:22:private RSSUtils()
+    25:61:static int[] getRSSwidths(int,int,int,int,boolean)
+    127:151:static int[] elements(int[],int,int)
+com.google.zxing.oned.rss.expanded.BitArrayBuilder:
+    39:40:private BitArrayBuilder()
+com.google.zxing.oned.rss.expanded.RSSExpandedReader:
+    private static final int FINDER_PAT_A
+    private static final int FINDER_PAT_B
+    private static final int FINDER_PAT_C
+    private static final int FINDER_PAT_D
+    private static final int FINDER_PAT_E
+    private static final int FINDER_PAT_F
+    private static final int MAX_PAIRS
+com.google.zxing.oned.rss.expanded.decoders.AI01392xDecoder:
+    private static final int headerSize
+    private static final int lastDigitSize
+com.google.zxing.oned.rss.expanded.decoders.AI01393xDecoder:
+    private static final int headerSize
+    private static final int lastDigitSize
+    private static final int firstThreeDigitsSize
+com.google.zxing.oned.rss.expanded.decoders.AI013x0x1xDecoder:
+    private static final int headerSize
+    private static final int weightSize
+    private static final int dateSize
+com.google.zxing.oned.rss.expanded.decoders.AI013x0xDecoder:
+    private static final int headerSize
+    private static final int weightSize
+com.google.zxing.oned.rss.expanded.decoders.AI01AndOtherAIs:
+    private static final int HEADER_SIZE
+com.google.zxing.oned.rss.expanded.decoders.AI01decoder:
+    protected static final int gtinSize
+com.google.zxing.oned.rss.expanded.decoders.AnyAIDecoder:
+    private static final int HEADER_SIZE
+com.google.zxing.oned.rss.expanded.decoders.CurrentParsingState:
+    private static final int NUMERIC
+    private static final int ALPHA
+    private static final int ISO_IEC_646
+    51:51:boolean isNumeric()
+com.google.zxing.oned.rss.expanded.decoders.DecodedChar:
+    static final char FNC1
+com.google.zxing.oned.rss.expanded.decoders.DecodedNumeric:
+    static final int FNC1
+    64:64:int getValue()
+    76:76:boolean isAnyFNC1()
+com.google.zxing.oned.rss.expanded.decoders.FieldParser:
+    189:190:private FieldParser()
+com.google.zxing.pdf417.PDF417Reader:
+    55:55:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.pdf417.decoder.BitMatrixParser:
+    private static final int MAX_ROW_DIFFERENCE
+    private static final int MAX_ROWS
+    private static final int MAX_CW_CAPACITY
+    private static final int MODULES_IN_SYMBOL
+com.google.zxing.pdf417.decoder.DecodedBitStreamParser:
+    private static final int TEXT_COMPACTION_MODE_LATCH
+    private static final int BYTE_COMPACTION_MODE_LATCH
+    private static final int NUMERIC_COMPACTION_MODE_LATCH
+    private static final int BYTE_COMPACTION_MODE_LATCH_6
+    private static final int BEGIN_MACRO_PDF417_CONTROL_BLOCK
+    private static final int BEGIN_MACRO_PDF417_OPTIONAL_FIELD
+    private static final int MACRO_PDF417_TERMINATOR
+    private static final int MODE_SHIFT_TO_BYTE_COMPACTION_MODE
+    private static final int MAX_NUMERIC_CODEWORDS
+    private static final int ALPHA
+    private static final int LOWER
+    private static final int MIXED
+    private static final int PUNCT
+    private static final int PUNCT_SHIFT
+    private static final int PL
+    private static final int LL
+    private static final int AS
+    private static final int ML
+    private static final int AL
+    private static final int PS
+    private static final int PAL
+    81:82:private DecodedBitStreamParser()
+com.google.zxing.pdf417.decoder.Decoder:
+    private static final int MAX_ERRORS
+    private static final int MAX_EC_CODEWORDS
+    52:61:public com.google.zxing.common.DecoderResult decode(boolean[][])
+com.google.zxing.pdf417.detector.Detector:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int SKEW_THRESHOLD
+com.google.zxing.qrcode.QRCodeReader:
+    49:49:protected com.google.zxing.qrcode.decoder.Decoder getDecoder()
+    61:61:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.qrcode.QRCodeWriter
+com.google.zxing.qrcode.decoder.DecodedBitStreamParser:
+    49:50:private DecodedBitStreamParser()
+com.google.zxing.qrcode.decoder.Decoder:
+    46:46:public com.google.zxing.common.DecoderResult decode(boolean[][])
+    61:70:public com.google.zxing.common.DecoderResult decode(boolean[][],java.util.Hashtable)
+    74:74:public com.google.zxing.common.DecoderResult decode(com.google.zxing.common.BitMatrix)
+com.google.zxing.qrcode.decoder.ErrorCorrectionLevel:
+    63:63:public int getBits()
+    67:67:public java.lang.String getName()
+com.google.zxing.qrcode.decoder.FormatInformation:
+    private static final int FORMAT_INFO_MASK_QR
+com.google.zxing.qrcode.decoder.Mode:
+    101:101:public int getBits()
+    105:105:public java.lang.String getName()
+com.google.zxing.qrcode.decoder.Version$ECBlocks:
+    207:211:public int getNumBlocks()
+    215:215:public int getTotalECCodewords()
+com.google.zxing.qrcode.detector.Detector:
+    48:48:protected com.google.zxing.common.BitMatrix getImage()
+    52:52:protected com.google.zxing.ResultPointCallback getResultPointCallback()
+    62:62:public com.google.zxing.common.DetectorResult detect()
+com.google.zxing.qrcode.detector.FinderPatternFinder:
+    private static final int CENTER_QUORUM
+    protected static final int MIN_SKIP
+    protected static final int MAX_MODULES
+    private static final int INTEGER_MATH_SHIFT
+    57:58:public FinderPatternFinder(com.google.zxing.common.BitMatrix)
+    68:68:protected com.google.zxing.common.BitMatrix getImage()
+    72:72:protected java.util.Vector getPossibleCenters()
+com.google.zxing.qrcode.encoder.BlockPair
+com.google.zxing.qrcode.encoder.ByteMatrix
+com.google.zxing.qrcode.encoder.Encoder
+com.google.zxing.qrcode.encoder.MaskUtil
+com.google.zxing.qrcode.encoder.MatrixUtil
+com.google.zxing.qrcode.encoder.QRCode
+com.mining.app.zxing.camera.AutoFocusCallback:
+    private static final long AUTOFOCUS_INTERVAL_MS
+com.mining.app.zxing.camera.CameraConfigurationManager:
+    private static final int TEN_DESIRED_ZOOM
+    private static final int DESIRED_SHARPNESS
+    252:252:public static int getDesiredSharpness()
+com.mining.app.zxing.camera.CameraManager:
+    private static final int MIN_FRAME_WIDTH
+    private static final int MIN_FRAME_HEIGHT
+    private static final int MAX_FRAME_WIDTH
+    private static final int MAX_FRAME_HEIGHT
+    307:307:public android.content.Context getContext()
+com.mining.app.zxing.camera.PlanarYUVLuminanceSource:
+    86:86:public boolean isCropSupported()
+    90:90:public int getDataWidth()
+    94:94:public int getDataHeight()
+com.mining.app.zxing.decoding.CaptureActivityHandler$State:
+    1:1:public static com.mining.app.zxing.decoding.CaptureActivityHandler$State[] values()
+    1:1:public static com.mining.app.zxing.decoding.CaptureActivityHandler$State valueOf(java.lang.String)
+com.mining.app.zxing.decoding.DecodeFormatManager:
+    55:55:private DecodeFormatManager()
+    58:63:static java.util.Vector parseDecodeFormats(android.content.Intent)
+    67:71:static java.util.Vector parseDecodeFormats(android.net.Uri)
+    76:101:private static java.util.Vector parseDecodeFormats(java.lang.Iterable,java.lang.String)
+com.mining.app.zxing.decoding.DecodeThread:
+    public static final java.lang.String BARCODE_BITMAP
+com.mining.app.zxing.decoding.InactivityTimer:
+    private static final int INACTIVITY_DELAY_SECONDS
+com.mining.app.zxing.decoding.Intents
+com.mining.app.zxing.decoding.Intents$Encode
+com.mining.app.zxing.decoding.Intents$Scan
+com.mining.app.zxing.decoding.Intents$SearchBookContents
+com.mining.app.zxing.decoding.Intents$Share
+com.mining.app.zxing.decoding.Intents$WifiConnect
+com.mining.app.zxing.decoding.RGBLuminanceSource:
+    36:37:public RGBLuminanceSource(java.lang.String)
+    94:98:private static android.graphics.Bitmap loadBitmap(java.lang.String)
+com.mining.app.zxing.encoding.EncodingHandler
+com.mining.app.zxing.image.RGBLuminanceSource
+com.mining.app.zxing.view.ViewfinderView:
+    private static final long ANIMATION_DELAY
+    private static final int OPAQUE
+    private static final int CORNER_WIDTH
+    private static final int MIDDLE_LINE_WIDTH
+    private static final int MIDDLE_LINE_PADDING
+    private static final int SPEEN_DISTANCE
+    private static final int TEXT_SIZE
+    private static final int TEXT_PADDING_TOP
+    263:265:public void drawResultBitmap(android.graphics.Bitmap)
+com.nh.sfcooper.AppManager:
+    39:39:public android.app.Activity getTopActivity()
+    43:47:public void killActivity(android.app.Activity)
+    50:51:public void killActivity(java.lang.Class)
+    75:76:public void killTopActivity()
+com.nh.sfcooper.BuildConfig
+com.nh.sfcooper.HttpUtils
+com.nh.sfcooper.R:
+    10:10:public R()
+com.nh.sfcooper.R$anim
+com.nh.sfcooper.R$array
+com.nh.sfcooper.R$attr
+com.nh.sfcooper.R$color
+com.nh.sfcooper.R$dimen
+com.nh.sfcooper.R$drawable
+com.nh.sfcooper.R$id
+com.nh.sfcooper.R$layout
+com.nh.sfcooper.R$menu
+com.nh.sfcooper.R$raw
+com.nh.sfcooper.R$string
+com.nh.sfcooper.R$style
+com.nh.sfcooper.R$styleable:
+    public static final int CircularImage_border_color
+    public static final int CircularImage_border_width
+    public static final int Indicator_actived
+    public static final int Indicator_color
+    public static final int Indicator_space
+    public static final int Indicator_total
+    public static final int Indicator_unactived
+    public static final int JNReSizeLayout_horizontalSpacing
+    public static final int JNReSizeLayout_verticalSpacing
+    public static final int JNReSizeLayout_LayoutParams_layout_breakLine
+    public static final int JNReSizeLayout_LayoutParams_layout_horizontalSpacing
+    public static final int MultiDirectionSlidingDrawer_allowSingleTap
+    public static final int MultiDirectionSlidingDrawer_animateOnClick
+    public static final int MultiDirectionSlidingDrawer_bottomOffset
+    public static final int MultiDirectionSlidingDrawer_content
+    public static final int MultiDirectionSlidingDrawer_direction
+    public static final int MultiDirectionSlidingDrawer_handle
+    public static final int MultiDirectionSlidingDrawer_topOffset
+    public static final int RoundProgressBar_BartextColor
+    public static final int RoundProgressBar_BartextSize
+    public static final int RoundProgressBar_max
+    public static final int RoundProgressBar_roundColor
+    public static final int RoundProgressBar_roundProgressColor
+    public static final int RoundProgressBar_roundWidth
+    public static final int RoundProgressBar_style
+    public static final int RoundProgressBar_textIsDisplayable
+    6048:6048:public R$styleable()
+com.nh.sfcooper.config.Constants:
+    public static final java.lang.String IMAGE_URL
+    public static final java.lang.String VIDEO_URL
+    public static final java.lang.String SHARED_PREFERENCE_NAME
+    public static final int SHARE_SUCCESS
+    public static final int SHARE_CANCEL
+    public static final int SHARE_ERROR
+    public static final int EXECUTE_LOADING
+    public static final int EXECUTE_SUCCESS
+    public static final int EXECUTE_FAILED
+    public static final int LOAD_DATA_SUCCESS
+    public static final int LOAD_DATA_ERROR
+    public static final int SET_DATA
+    public static final int NONE_LOGIN
+    7:7:public Constants()
+com.nh.sfcooper.dialog.LoadingDialog:
+    29:31:public LoadingDialog(android.content.Context,java.lang.String)
+    77:83:public synchronized void setMSG(java.lang.String)
+com.nh.sfcooper.dialog.RoundProgressBar:
+    public static final int STROKE
+    public static final int FILL
+    166:166:public synchronized int getMax()
+    174:178:public synchronized void setMax(int)
+    185:185:public synchronized int getProgress()
+    209:209:public int getCricleColor()
+    213:214:public void setCricleColor(int)
+    217:217:public int getCricleProgressColor()
+    221:222:public void setCricleProgressColor(int)
+    225:225:public int getTextColor()
+    229:230:public void setTextColor(int)
+    233:233:public float getTextSize()
+    237:238:public void setTextSize(float)
+    241:241:public float getRoundWidth()
+    245:246:public void setRoundWidth(float)
+com.nh.sfcooper.image.ImageLoaderConfig:
+    public static com.nostra13.universalimageloader.core.DisplayImageOptions options
+    public static com.nostra13.universalimageloader.core.DisplayImageOptions options_head
+    20:20:public ImageLoaderConfig()
+    28:38:public static com.nostra13.universalimageloader.core.DisplayImageOptions getDefaultConfigs()
+    86:114:public static com.nostra13.universalimageloader.core.DisplayImageOptions initDisplayOptions(int,boolean)
+com.nh.sfcooper.image.ImageUtils
+com.nh.sfcooper.image.SimpleImageDisplayer
+com.nh.sfcooper.model.OperateItemData:
+    private static final long serialVersionUID
+    private java.lang.String title
+    19:19:public java.lang.String getTitle()
+    26:27:public void setTitle(java.lang.String)
+com.nh.sfcooper.ui.CaptureActivity:
+    public static final int OPEN_ACTIVITY_GENERATE_QR_IMAGE
+    public static final int OPEN_ACTIVITY_INPUT_QR_CODE
+    public static final int OPEN_ACTIVITY_SCAN_HISTORY
+    public static final int SCAN_ORDER_SN_SUCCESS
+    public static final java.lang.String TITLE_NAME
+    private static final float BEEP_VOLUME
+    private static final int REQUEST_CODE
+    private static final int PARSE_BARCODE_SUC
+    private static final int PARSE_BARCODE_FAIL
+    private android.widget.ImageView mImageButton
+    private static final long VIBRATE_DURATION
+    112:116:public void scanQRImageFromExtenalStroage()
+    406:406:protected void findViewById()
+    412:412:protected void initView()
+com.nh.sfcooper.ui.base.BaseActivity:
+    37:38:public void DisplayToastLong(java.lang.String)
+    protected abstract void findViewById()
+    43:43:protected java.lang.String getClientOs()
+    47:47:protected java.lang.String getClientOsVer()
+    51:51:protected java.lang.String getCountry()
+    55:55:protected java.lang.String getDeviceId()
+    59:59:protected java.lang.String getLanguage()
+    63:63:protected java.lang.String getToken()
+    67:67:protected java.lang.String getVersionName()
+    73:78:protected void hideOrShowSoftInput(boolean,android.widget.EditText)
+    protected abstract void initView()
+    122:126:protected void openActivity(java.lang.Class,android.os.Bundle)
+    129:135:protected void openActivity(java.lang.Class,java.lang.String)
+    139:147:protected void openActivity(java.lang.Class,java.lang.String,android.os.Bundle)
+    150:151:protected void openActivity(java.lang.String)
+    154:158:protected void openActivity(java.lang.String,android.os.Bundle)
+    162:171:protected void setTranslucentStatus(boolean)
+    194:194:protected java.lang.Object $with(android.view.View,int)
+com.nostra13.universalimageloader.cache.disc.BaseDiscCache:
+    private static final java.lang.String ERROR_ARG_NULL
+    40:41:public BaseDiscCache(java.io.File)
+    57:58:public java.io.File get(java.lang.String)
+    63:69:public void clear()
+com.nostra13.universalimageloader.cache.disc.DiscCacheAware:
+    public abstract void put(java.lang.String,java.io.File)
+    public abstract java.io.File get(java.lang.String)
+    public abstract void clear()
+com.nostra13.universalimageloader.cache.disc.LimitedDiscCache:
+    private static final int INVALID_SIZE
+    55:56:public LimitedDiscCache(java.io.File,int)
+    91:104:public void put(java.lang.String,java.io.File)
+    108:114:public java.io.File get(java.lang.String)
+    119:122:public void clear()
+    126:158:private int removeNext()
+com.nostra13.universalimageloader.cache.disc.impl.FileCountLimitedDiscCache:
+    40:41:public FileCountLimitedDiscCache(java.io.File,int)
+com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache
+com.nostra13.universalimageloader.cache.disc.impl.TotalSizeLimitedDiscCache:
+    private static final int MIN_NORMAL_CACHE_SIZE_IN_MB
+    private static final int MIN_NORMAL_CACHE_SIZE
+com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache:
+    50:50:public void put(java.lang.String,java.io.File)
+com.nostra13.universalimageloader.cache.disc.naming.FileNameGenerator:
+    public abstract java.lang.String generate(java.lang.String)
+com.nostra13.universalimageloader.cache.disc.naming.HashCodeFileNameGenerator:
+    27:27:public java.lang.String generate(java.lang.String)
+com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator
+com.nostra13.universalimageloader.cache.memory.BaseMemoryCache:
+    35:40:public java.lang.Object get(java.lang.Object)
+    45:46:public boolean put(java.lang.Object,java.lang.Object)
+    51:52:public void remove(java.lang.Object)
+    56:58:public java.util.Collection keys()
+    63:64:public void clear()
+    protected abstract java.lang.ref.Reference createReference(java.lang.Object)
+com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache:
+    private static final int MAX_NORMAL_CACHE_SIZE_IN_MB
+    private static final int MAX_NORMAL_CACHE_SIZE
+    63:82:public boolean put(java.lang.Object,java.lang.Object)
+    87:94:public void remove(java.lang.Object)
+    98:101:public void clear()
+    104:104:protected int getSizeLimit()
+    protected abstract int getSize(java.lang.Object)
+    protected abstract java.lang.Object removeNext()
+com.nostra13.universalimageloader.cache.memory.MemoryCacheAware:
+    public abstract boolean put(java.lang.Object,java.lang.Object)
+    public abstract java.lang.Object get(java.lang.Object)
+    public abstract void remove(java.lang.Object)
+    public abstract java.util.Collection keys()
+    public abstract void clear()
+com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache
+com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache:
+    45:57:public boolean put(java.lang.Object,java.lang.Object)
+    62:62:public java.lang.Object get(java.lang.Object)
+    67:68:public void remove(java.lang.Object)
+    72:73:public void clear()
+    77:77:public java.util.Collection keys()
+com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache:
+    private static final int INITIAL_CAPACITY
+    private static final float LOAD_FACTOR
+    54:58:public boolean put(java.lang.String,android.graphics.Bitmap)
+    64:65:public android.graphics.Bitmap get(java.lang.String)
+    70:72:public void remove(java.lang.String)
+    76:78:public void clear()
+    82:82:protected int getSize(android.graphics.Bitmap)
+    87:96:protected android.graphics.Bitmap removeNext()
+    101:101:protected java.lang.ref.Reference createReference(android.graphics.Bitmap)
+    39:39:protected bridge synthetic java.lang.Object removeNext()
+    39:39:protected bridge synthetic int getSize(java.lang.Object)
+    39:39:public bridge synthetic void remove(java.lang.Object)
+    39:39:public bridge synthetic boolean put(java.lang.Object,java.lang.Object)
+    39:39:protected bridge synthetic java.lang.ref.Reference createReference(java.lang.Object)
+    39:39:public bridge synthetic java.lang.Object get(java.lang.Object)
+com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache
+com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache
+com.nostra13.universalimageloader.cache.memory.impl.LruMemoryCache:
+    private int size
+    44:50:public final android.graphics.Bitmap get(java.lang.String)
+    56:69:public final boolean put(java.lang.String,android.graphics.Bitmap)
+    81:100:private void trimToSize(int)
+    105:115:public final void remove(java.lang.String)
+    119:121:public java.util.Collection keys()
+    126:127:public void clear()
+    135:135:private int sizeOf(java.lang.String,android.graphics.Bitmap)
+    21:21:public bridge synthetic void remove(java.lang.Object)
+    21:21:public bridge synthetic java.lang.Object get(java.lang.Object)
+    21:21:public bridge synthetic boolean put(java.lang.Object,java.lang.Object)
+com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache
+com.nostra13.universalimageloader.cache.memory.impl.WeakMemoryCache:
+    35:35:protected java.lang.ref.Reference createReference(android.graphics.Bitmap)
+    32:32:protected bridge synthetic java.lang.ref.Reference createReference(java.lang.Object)
+com.nostra13.universalimageloader.core.DefaultConfigurationFactory:
+    50:126:public DefaultConfigurationFactory()
+com.nostra13.universalimageloader.core.DisplayBitmapTask
+com.nostra13.universalimageloader.core.DisplayImageOptions:
+    94:94:public boolean shouldShowStubImage()
+    98:98:public boolean shouldShowImageForEmptyUri()
+    102:102:public boolean shouldShowImageOnFail()
+    106:106:public boolean shouldPreProcess()
+    110:110:public boolean shouldPostProcess()
+    114:114:public boolean shouldDelayBeforeLoading()
+    118:118:public int getStubImage()
+    122:122:public int getImageForEmptyUri()
+    126:126:public int getImageOnFail()
+    130:130:public boolean isResetViewBeforeLoading()
+    134:134:public boolean isCacheInMemory()
+    138:138:public boolean isCacheOnDisc()
+    142:142:public com.nostra13.universalimageloader.core.assist.ImageScaleType getImageScaleType()
+    146:146:public android.graphics.BitmapFactory$Options getDecodingOptions()
+    150:150:public int getDelayBeforeLoading()
+    154:154:public java.lang.Object getExtraForDownloader()
+    158:158:public com.nostra13.universalimageloader.core.process.BitmapProcessor getPreProcessor()
+    162:162:public com.nostra13.universalimageloader.core.process.BitmapProcessor getPostProcessor()
+    166:166:public com.nostra13.universalimageloader.core.display.BitmapDisplayer getDisplayer()
+    170:170:public android.os.Handler getHandler()
+    59:59:static synthetic int access$1400(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic int access$1500(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic int access$1600(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic boolean access$1700(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic boolean access$1800(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic boolean access$1900(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic com.nostra13.universalimageloader.core.assist.ImageScaleType access$2000(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic android.graphics.BitmapFactory$Options access$2100(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic int access$2200(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic java.lang.Object access$2300(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic com.nostra13.universalimageloader.core.process.BitmapProcessor access$2400(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic com.nostra13.universalimageloader.core.process.BitmapProcessor access$2500(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic com.nostra13.universalimageloader.core.display.BitmapDisplayer access$2600(com.nostra13.universalimageloader.core.DisplayImageOptions)
+    59:59:static synthetic android.os.Handler access$2700(com.nostra13.universalimageloader.core.DisplayImageOptions)
+com.nostra13.universalimageloader.core.DisplayImageOptions$Builder:
+    237:238:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder resetViewBeforeLoading()
+    243:244:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder resetViewBeforeLoading(boolean)
+    253:254:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder cacheInMemory()
+    269:270:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder cacheOnDisc()
+    304:306:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder decodingOptions(android.graphics.BitmapFactory$Options)
+    311:312:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder delayBeforeLoading(int)
+    317:318:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder extraForDownloader(java.lang.Object)
+    327:328:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder preProcessor(com.nostra13.universalimageloader.core.process.BitmapProcessor)
+    336:337:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder postProcessor(com.nostra13.universalimageloader.core.process.BitmapProcessor)
+    345:347:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder displayer(com.nostra13.universalimageloader.core.display.BitmapDisplayer)
+    355:356:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder handler(android.os.Handler)
+    361:375:public com.nostra13.universalimageloader.core.DisplayImageOptions$Builder cloneFrom(com.nostra13.universalimageloader.core.DisplayImageOptions)
+com.nostra13.universalimageloader.core.ImageLoader:
+    static final java.lang.String LOG_INIT_CONFIG
+    static final java.lang.String LOG_DESTROY
+    static final java.lang.String LOG_LOAD_IMAGE_FROM_MEMORY_CACHE
+    private static final java.lang.String WARNING_RE_INIT_CONFIG
+    private static final java.lang.String ERROR_WRONG_ARGUMENTS
+    private static final java.lang.String ERROR_NOT_INIT
+    private static final java.lang.String ERROR_INIT_CONFIG_WITH_NULL
+    117:118:public void displayImage(java.lang.String,android.widget.ImageView)
+    134:135:public void displayImage(java.lang.String,android.widget.ImageView,com.nostra13.universalimageloader.core.DisplayImageOptions)
+    151:152:public void displayImage(java.lang.String,android.widget.ImageView,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    170:223:public void displayImage(java.lang.String,android.widget.ImageView,com.nostra13.universalimageloader.core.DisplayImageOptions,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    236:237:public void loadImage(java.lang.String,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    254:255:public void loadImage(java.lang.String,com.nostra13.universalimageloader.core.assist.ImageSize,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    273:274:public void loadImage(java.lang.String,com.nostra13.universalimageloader.core.DisplayImageOptions,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    296:316:public void loadImage(java.lang.String,com.nostra13.universalimageloader.core.assist.ImageSize,com.nostra13.universalimageloader.core.DisplayImageOptions,com.nostra13.universalimageloader.core.assist.ImageLoadingListener)
+    324:327:private void checkConfiguration()
+    335:336:public com.nostra13.universalimageloader.cache.memory.MemoryCacheAware getMemoryCache()
+    345:347:public void clearMemoryCache()
+    355:356:public com.nostra13.universalimageloader.cache.disc.DiscCacheAware getDiscCache()
+    365:367:public void clearDiscCache()
+    371:371:public java.lang.String getLoadingUriForView(android.widget.ImageView)
+    380:381:public void cancelDisplayTask(android.widget.ImageView)
+    394:395:public void denyNetworkDownloads(boolean)
+    405:406:public void handleSlowNetwork(boolean)
+    413:414:public void pause()
+    418:419:public void resume()
+    426:427:public void stop()
+    435:439:public void destroy()
+com.nostra13.universalimageloader.core.ImageLoaderConfiguration:
+    134:134:public static com.nostra13.universalimageloader.core.ImageLoaderConfiguration createDefault(android.content.Context)
+com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder:
+    private static final java.lang.String WARNING_OVERLAP_DISC_CACHE_PARAMS
+    private static final java.lang.String WARNING_OVERLAP_DISC_CACHE_NAME_GENERATOR
+    private static final java.lang.String WARNING_OVERLAP_MEMORY_CACHE
+    private static final java.lang.String WARNING_OVERLAP_EXECUTOR
+    public static final int DEFAULT_THREAD_POOL_SIZE
+    public static final int DEFAULT_THREAD_PRIORITY
+    221:226:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder discCacheExtraOptions(int,int,android.graphics.Bitmap$CompressFormat,int,com.nostra13.universalimageloader.core.process.BitmapProcessor)
+    243:248:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder taskExecutor(java.util.concurrent.Executor)
+    270:275:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder taskExecutorForCachedImages(java.util.concurrent.Executor)
+    331:336:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder tasksProcessingOrder(com.nostra13.universalimageloader.core.assist.QueueProcessingType)
+    348:355:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder memoryCacheSize(int)
+    368:377:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder memoryCacheSizePercentage(int)
+    408:415:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder discCacheSize(int)
+    427:435:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder discCacheFileCount(int)
+    471:472:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder imageDecoder(com.nostra13.universalimageloader.core.decode.ImageDecoder)
+    517:518:public com.nostra13.universalimageloader.core.ImageLoaderConfiguration$Builder writeDebugLogs()
+com.nostra13.universalimageloader.core.ImageLoaderEngine:
+    66:78:void submit(com.nostra13.universalimageloader.core.LoadAndDisplayImageTask)
+    82:84:void submit(com.nostra13.universalimageloader.core.ProcessAndDisplayImageTask)
+    87:93:private void initExecutorsIfNeed()
+    96:96:private java.util.concurrent.Executor createTaskExecutor()
+    101:101:java.lang.String getLoadingUriForView(android.widget.ImageView)
+    109:110:void prepareDisplayTaskFor(android.widget.ImageView,java.lang.String)
+    118:119:void cancelDisplayTaskFor(android.widget.ImageView)
+    132:133:void denyNetworkDownloads(boolean)
+    143:144:void handleSlowNetwork(boolean)
+    151:152:void pause()
+    156:160:void resume()
+    164:173:void stop()
+    176:181:java.util.concurrent.locks.ReentrantLock getLockForUri(java.lang.String)
+    185:185:java.util.concurrent.atomic.AtomicBoolean getPause()
+    189:189:boolean isNetworkDenied()
+    193:193:boolean isSlowNetwork()
+    40:40:static synthetic void access$000(com.nostra13.universalimageloader.core.ImageLoaderEngine)
+    40:40:static synthetic java.util.concurrent.Executor access$100(com.nostra13.universalimageloader.core.ImageLoaderEngine)
+    40:40:static synthetic java.util.concurrent.Executor access$200(com.nostra13.universalimageloader.core.ImageLoaderEngine)
+com.nostra13.universalimageloader.core.ImageLoaderEngine$1
+com.nostra13.universalimageloader.core.ImageLoadingInfo
+com.nostra13.universalimageloader.core.LoadAndDisplayImageTask
+com.nostra13.universalimageloader.core.LoadAndDisplayImageTask$1
+com.nostra13.universalimageloader.core.LoadAndDisplayImageTask$2
+com.nostra13.universalimageloader.core.ProcessAndDisplayImageTask
+com.nostra13.universalimageloader.core.assist.DiscCacheUtil
+com.nostra13.universalimageloader.core.assist.FailReason
+com.nostra13.universalimageloader.core.assist.FailReason$FailType
+com.nostra13.universalimageloader.core.assist.FlushedInputStream
+com.nostra13.universalimageloader.core.assist.ImageLoadingListener:
+    public abstract void onLoadingStarted(java.lang.String,android.view.View)
+    public abstract void onLoadingFailed(java.lang.String,android.view.View,com.nostra13.universalimageloader.core.assist.FailReason)
+    public abstract void onLoadingComplete(java.lang.String,android.view.View,android.graphics.Bitmap)
+    public abstract void onLoadingCancelled(java.lang.String,android.view.View)
+com.nostra13.universalimageloader.core.assist.ImageScaleType:
+    24:24:public static com.nostra13.universalimageloader.core.assist.ImageScaleType[] values()
+    24:24:public static com.nostra13.universalimageloader.core.assist.ImageScaleType valueOf(java.lang.String)
+com.nostra13.universalimageloader.core.assist.ImageSize
+com.nostra13.universalimageloader.core.assist.LoadedFrom
+com.nostra13.universalimageloader.core.assist.MemoryCacheUtil:
+    private static final java.lang.String URI_AND_SIZE_SEPARATOR
+    private static final java.lang.String WIDTH_AND_HEIGHT_SEPARATOR
+    37:38:private MemoryCacheUtil()
+    45:45:public static java.lang.String generateKey(java.lang.String,com.nostra13.universalimageloader.core.assist.ImageSize)
+    66:72:public static java.util.List findCachedBitmapsForImageUri(java.lang.String,com.nostra13.universalimageloader.cache.memory.MemoryCacheAware)
+    82:88:public static java.util.List findCacheKeysForImageUri(java.lang.String,com.nostra13.universalimageloader.cache.memory.MemoryCacheAware)
+    98:107:public static void removeFromCache(java.lang.String,com.nostra13.universalimageloader.cache.memory.MemoryCacheAware)
+com.nostra13.universalimageloader.core.assist.PauseOnScrollListener
+com.nostra13.universalimageloader.core.assist.QueueProcessingType:
+    24:24:public static com.nostra13.universalimageloader.core.assist.QueueProcessingType[] values()
+    24:24:public static com.nostra13.universalimageloader.core.assist.QueueProcessingType valueOf(java.lang.String)
+com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener:
+    32:32:public void onLoadingStarted(java.lang.String,android.view.View)
+    37:37:public void onLoadingFailed(java.lang.String,android.view.View,com.nostra13.universalimageloader.core.assist.FailReason)
+    42:42:public void onLoadingComplete(java.lang.String,android.view.View,android.graphics.Bitmap)
+    47:47:public void onLoadingCancelled(java.lang.String,android.view.View)
+com.nostra13.universalimageloader.core.assist.ViewScaleType
+com.nostra13.universalimageloader.core.assist.ViewScaleType$1
+com.nostra13.universalimageloader.core.assist.deque.BlockingDeque:
+    public abstract void addFirst(java.lang.Object)
+    public abstract void addLast(java.lang.Object)
+    public abstract boolean offerFirst(java.lang.Object)
+    public abstract boolean offerLast(java.lang.Object)
+    public abstract void putFirst(java.lang.Object)
+    public abstract void putLast(java.lang.Object)
+    public abstract boolean offerFirst(java.lang.Object,long,java.util.concurrent.TimeUnit)
+    public abstract boolean offerLast(java.lang.Object,long,java.util.concurrent.TimeUnit)
+    public abstract java.lang.Object takeFirst()
+    public abstract java.lang.Object takeLast()
+    public abstract java.lang.Object pollFirst(long,java.util.concurrent.TimeUnit)
+    public abstract java.lang.Object pollLast(long,java.util.concurrent.TimeUnit)
+    public abstract boolean removeFirstOccurrence(java.lang.Object)
+    public abstract boolean removeLastOccurrence(java.lang.Object)
+    public abstract boolean add(java.lang.Object)
+    public abstract boolean offer(java.lang.Object)
+    public abstract void put(java.lang.Object)
+    public abstract boolean offer(java.lang.Object,long,java.util.concurrent.TimeUnit)
+    public abstract java.lang.Object remove()
+    public abstract java.lang.Object poll()
+    public abstract java.lang.Object take()
+    public abstract java.lang.Object poll(long,java.util.concurrent.TimeUnit)
+    public abstract java.lang.Object element()
+    public abstract java.lang.Object peek()
+    public abstract boolean remove(java.lang.Object)
+    public abstract boolean contains(java.lang.Object)
+    public abstract int size()
+    public abstract java.util.Iterator iterator()
+    public abstract void push(java.lang.Object)
+com.nostra13.universalimageloader.core.assist.deque.Deque:
+    public abstract void addFirst(java.lang.Object)
+    public abstract void addLast(java.lang.Object)
+    public abstract boolean offerFirst(java.lang.Object)
+    public abstract boolean offerLast(java.lang.Object)
+    public abstract java.lang.Object removeFirst()
+    public abstract java.lang.Object removeLast()
+    public abstract java.lang.Object pollFirst()
+    public abstract java.lang.Object pollLast()
+    public abstract java.lang.Object getFirst()
+    public abstract java.lang.Object getLast()
+    public abstract java.lang.Object peekFirst()
+    public abstract java.lang.Object peekLast()
+    public abstract boolean removeFirstOccurrence(java.lang.Object)
+    public abstract boolean removeLastOccurrence(java.lang.Object)
+    public abstract boolean add(java.lang.Object)
+    public abstract boolean offer(java.lang.Object)
+    public abstract java.lang.Object remove()
+    public abstract java.lang.Object poll()
+    public abstract java.lang.Object element()
+    public abstract java.lang.Object peek()
+    public abstract void push(java.lang.Object)
+    public abstract java.lang.Object pop()
+    public abstract boolean remove(java.lang.Object)
+    public abstract boolean contains(java.lang.Object)
+    public abstract int size()
+    public abstract java.util.Iterator iterator()
+    public abstract java.util.Iterator descendingIterator()
+com.nostra13.universalimageloader.core.assist.deque.LIFOLinkedBlockingDeque:
+    private static final long serialVersionUID
+com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque:
+    private static final long serialVersionUID
+    165:178:public LinkedBlockingDeque(java.util.Collection)
+    294:296:public void addFirst(java.lang.Object)
+    342:352:public void putFirst(java.lang.Object)
+    377:390:public boolean offerFirst(java.lang.Object,long,java.util.concurrent.TimeUnit)
+    430:432:public java.lang.Object removeLast()
+    446:451:public java.lang.Object pollLast()
+    469:477:public java.lang.Object takeLast()
+    501:513:public java.lang.Object pollLast(long,java.util.concurrent.TimeUnit)
+    530:532:public java.lang.Object getLast()
+    546:551:public java.lang.Object peekLast()
+    573:585:public boolean removeLastOccurrence(java.lang.Object)
+    738:739:public void push(java.lang.Object)
+    745:745:public java.lang.Object pop()
+    1007:1007:public java.util.Iterator descendingIterator()
+    1133:1146:private void writeObject(java.io.ObjectOutputStream)
+    1155:1167:private void readObject(java.io.ObjectInputStream)
+com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque$DescendingItr
+com.nostra13.universalimageloader.core.decode.BaseImageDecoder:
+    protected static final java.lang.String LOG_SABSAMPLE_IMAGE
+    protected static final java.lang.String LOG_SCALE_IMAGE
+    protected static final java.lang.String LOG_ROTATE_IMAGE
+    protected static final java.lang.String LOG_FLIP_IMAGE
+    protected static final java.lang.String ERROR_CANT_DECODE_IMAGE
+    68:78:public android.graphics.Bitmap decode(com.nostra13.universalimageloader.core.decode.ImageDecodingInfo)
+    82:82:protected java.io.InputStream getImageStream(com.nostra13.universalimageloader.core.decode.ImageDecodingInfo)
+    86:100:protected com.nostra13.universalimageloader.core.decode.BaseImageDecoder$ImageFileInfo defineImageSizeAndRotation(java.io.InputStream,java.lang.String)
+    104:136:protected com.nostra13.universalimageloader.core.decode.BaseImageDecoder$ExifInfo defineExifOrientation(java.lang.String,java.lang.String)
+    140:151:protected android.graphics.BitmapFactory$Options prepareDecodingOptions(com.nostra13.universalimageloader.core.assist.ImageSize,com.nostra13.universalimageloader.core.decode.ImageDecodingInfo)
+    156:158:protected android.graphics.Bitmap decodeStream(java.io.InputStream,android.graphics.BitmapFactory$Options)
+    163:192:protected android.graphics.Bitmap considerExactScaleAndOrientaiton(android.graphics.Bitmap,com.nostra13.universalimageloader.core.decode.ImageDecodingInfo,int,boolean)
+com.nostra13.universalimageloader.core.decode.BaseImageDecoder$ExifInfo
+com.nostra13.universalimageloader.core.decode.BaseImageDecoder$ImageFileInfo
+com.nostra13.universalimageloader.core.decode.ImageDecoder:
+    public abstract android.graphics.Bitmap decode(com.nostra13.universalimageloader.core.decode.ImageDecodingInfo)
+com.nostra13.universalimageloader.core.decode.ImageDecodingInfo
+com.nostra13.universalimageloader.core.display.BitmapDisplayer:
+    public abstract android.graphics.Bitmap display(android.graphics.Bitmap,android.widget.ImageView,com.nostra13.universalimageloader.core.assist.LoadedFrom)
+com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer
+com.nostra13.universalimageloader.core.display.FakeBitmapDisplayer:
+    37:37:public android.graphics.Bitmap display(android.graphics.Bitmap,android.widget.ImageView,com.nostra13.universalimageloader.core.assist.LoadedFrom)
+com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer
+com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer$1
+com.nostra13.universalimageloader.core.display.SimpleBitmapDisplayer:
+    31:32:public android.graphics.Bitmap display(android.graphics.Bitmap,android.widget.ImageView,com.nostra13.universalimageloader.core.assist.LoadedFrom)
+com.nostra13.universalimageloader.core.download.BaseImageDownloader:
+    public static final int DEFAULT_HTTP_CONNECT_TIMEOUT
+    public static final int DEFAULT_HTTP_READ_TIMEOUT
+    protected static final int BUFFER_SIZE
+    protected static final java.lang.String ALLOWED_URI_CHARS
+    protected static final int MAX_REDIRECT_COUNT
+    private static final java.lang.String ERROR_UNSUPPORTED_SCHEME
+    73:87:public java.io.InputStream getStream(java.lang.String,java.lang.Object)
+    102:110:protected java.io.InputStream getStreamFromNetwork(java.lang.String,java.lang.Object)
+    123:127:protected java.net.HttpURLConnection createConnection(java.lang.String)
+    140:141:protected java.io.InputStream getStreamFromFile(java.lang.String,java.lang.Object)
+    154:156:protected java.io.InputStream getStreamFromContent(java.lang.String,java.lang.Object)
+    169:170:protected java.io.InputStream getStreamFromAssets(java.lang.String,java.lang.Object)
+    182:189:protected java.io.InputStream getStreamFromDrawable(java.lang.String,java.lang.Object)
+    206:206:protected java.io.InputStream getStreamFromOtherSource(java.lang.String,java.lang.Object)
+com.nostra13.universalimageloader.core.download.BaseImageDownloader$1
+com.nostra13.universalimageloader.core.download.HttpClientImageDownloader
+com.nostra13.universalimageloader.core.download.ImageDownloader:
+    public abstract java.io.InputStream getStream(java.lang.String,java.lang.Object)
+com.nostra13.universalimageloader.core.download.ImageDownloader$Scheme
+com.nostra13.universalimageloader.core.download.NetworkDeniedImageDownloader:
+    38:43:public java.io.InputStream getStream(java.lang.String,java.lang.Object)
+com.nostra13.universalimageloader.core.download.NetworkDeniedImageDownloader$1
+com.nostra13.universalimageloader.core.download.SlowNetworkImageDownloader:
+    40:46:public java.io.InputStream getStream(java.lang.String,java.lang.Object)
+com.nostra13.universalimageloader.core.download.SlowNetworkImageDownloader$1
+com.nostra13.universalimageloader.core.process.BitmapProcessor:
+    public abstract android.graphics.Bitmap process(android.graphics.Bitmap)
+com.nostra13.universalimageloader.utils.ImageSizeUtils
+com.nostra13.universalimageloader.utils.ImageSizeUtils$1
+com.nostra13.universalimageloader.utils.IoUtils
+com.nostra13.universalimageloader.utils.L:
+    private static final java.lang.String LOG_FORMAT
+    32:33:private L()
+    37:38:public static void enableLogging()
+    42:43:public static void disableLogging()
+    58:59:public static void e(java.lang.Throwable)
+    62:63:public static varargs void e(java.lang.String,java.lang.Object[])
+    66:67:public static varargs void e(java.lang.Throwable,java.lang.String,java.lang.Object[])
+com.nostra13.universalimageloader.utils.StorageUtils:
+    private static final java.lang.String EXTERNAL_STORAGE_PERMISSION
+    private static final java.lang.String INDIVIDUAL_DIR_NAME
+    38:39:private StorageUtils()

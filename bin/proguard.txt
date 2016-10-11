@@ -1,0 +1,24 @@
+# view res/layout/activity_capture.xml #generated:19
+-keep class com.mining.app.zxing.view.ViewfinderView { <init>(...); }
+
+# view res/layout/loading_dialog_layout.xml #generated:24
+-keep class com.nh.sfcooper.dialog.RoundProgressBar { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.nh.sfcooper.ui.CaptureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.nh.sfcooper.ui.DeliveryRequestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.nh.sfcooper.ui.IndexActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.nh.sfcooper.ui.OpreateHistory { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.nh.sfcooper.ui.QueryResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.nh.sfcooper.ui.SplashActivity { <init>(...); }
+

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        layout="@layout/title_custom" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:fadingEdge="none"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fuxk_base_color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dd_dimen_30px"
+                android:paddingRight="@dimen/dd_dimen_30px" >
+
+                <TextView
+                    android:layout_width="@dimen/dd_dimen_200px"
+                    android:layout_height="fill_parent"
+                    android:background="@color/fuxk_base_color_white"
+                    android:gravity="center_vertical"
+                    android:text="姓名"
+                    android:textColor="@color/fuxk_base_color_gray_black" />
+
+                <EditText
+                    android:id="@+id/delivery_name"
+                    style="@style/Fuxk_Base_Content_28_Style"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/dd_dimen_90px"
+                    android:layout_margin="@dimen/dd_dimen_6px"
+                    android:background="@drawable/dd_edit_text_manage_delivery"
+                    android:focusable="false"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/dd_dimen_6px"
+                    android:paddingRight="@dimen/dd_dimen_6px"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/fuxk_base_divide_line_color" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fuxk_base_color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dd_dimen_30px"
+                android:paddingRight="@dimen/dd_dimen_30px" >
+
+                <TextView
+                    android:layout_width="@dimen/dd_dimen_200px"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="上门地址"
+                    android:textColor="@color/fuxk_base_color_gray_black" />
+
+                <EditText
+                    android:id="@+id/delivery_detail"
+                    style="@style/Fuxk_Base_Content_28_Style"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/dd_dimen_90px"
+                    android:layout_margin="@dimen/dd_dimen_6px"
+                    android:background="@drawable/dd_edit_text_manage_delivery"
+                    android:focusable="false"
+                    android:hint="请填写详细地址"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/dd_dimen_6px"
+                    android:paddingRight="@dimen/dd_dimen_6px" />
+            </LinearLayout>
+            
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/fuxk_base_divide_line_color" />
+            
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fuxk_base_color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dd_dimen_30px"
+                android:paddingRight="@dimen/dd_dimen_30px" >
+
+                <TextView
+                    android:layout_width="@dimen/dd_dimen_200px"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="重量"
+                    android:textColor="@color/fuxk_base_color_gray_black" />
+
+                <Spinner
+                    android:id="@+id/delivery_school"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/dd_dimen_90px"
+                    android:layout_margin="@dimen/dd_dimen_6px"
+                    android:background="@drawable/dd_edit_text_manage_delivery"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/dd_dimen_6px"
+                    android:paddingRight="@dimen/dd_dimen_6px"
+                    android:entries="@array/package_weights"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/fuxk_base_divide_line_color" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fuxk_base_color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dd_dimen_30px"
+                android:paddingRight="@dimen/dd_dimen_30px" >
+
+                <TextView
+                    android:layout_width="@dimen/dd_dimen_200px"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/fuxk_settle_delivery_append_mb_tel"
+                    android:textColor="@color/fuxk_base_color_gray_black" />
+
+                <EditText
+                    android:id="@+id/delivery_tel"
+                    style="@style/Fuxk_Base_Content_28_Style"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/dd_dimen_90px"
+                    android:layout_margin="@dimen/dd_dimen_6px"
+                    android:background="@drawable/dd_edit_text_manage_delivery"
+                    android:focusable="false"
+                    android:gravity="center_vertical"
+                    android:inputType="phone"
+                    android:paddingLeft="@dimen/dd_dimen_6px"
+                    android:paddingRight="@dimen/dd_dimen_6px"
+                    android:hint="请填写您的手机号/固话等联系方式"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/fuxk_base_divide_line_color" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fuxk_base_color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dd_dimen_30px"
+                android:paddingRight="@dimen/dd_dimen_30px" >
+
+                <TextView
+                    android:layout_width="@dimen/dd_dimen_200px"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="备注 "
+                    android:textColor="@color/fuxk_base_color_gray_black" />
+
+                <EditText
+                    android:id="@+id/delivery_comment"
+                    style="@style/Fuxk_Base_Content_28_Style"
+                    android:layout_width="fill_parent"
+                    android:layout_height="100dip"
+                    android:layout_margin="@dimen/dd_dimen_6px"
+                    android:background="@drawable/dd_edit_text_manage_delivery"
+                    android:focusable="false"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/dd_dimen_6px"
+                    android:paddingRight="@dimen/dd_dimen_6px"
+                    android:hint="若您的所寄的物品不重但体积较大，请在这注明,限20字以内"
+                    android:singleLine="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/fuxk_base_divide_line_color" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/bootom_container_delivery"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:background="@color/fuxk_base_divide_line_color" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/fuxk_base_color_white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <TextView
+                android:id="@+id/delivery_request_button"
+                style="@style/Fuxk_Base_Title_Sub_Style"
+                android:layout_width="0.0dip"
+                android:layout_height="@dimen/dd_dimen_90px"
+                android:layout_weight="1.0"
+                android:background="@drawable/pd_item_enable_bg"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="预约上门取件" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:background="@color/fuxk_base_divide_line_color" />
+    </LinearLayout>
+
+</LinearLayout>

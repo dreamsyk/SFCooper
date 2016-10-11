@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightgray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_index" />
+
+    <LinearLayout
+        android:id="@+id/index_quick_icons"
+        android:layout_width="match_parent"
+        android:layout_height="85dip"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/quick_huodaofukuan"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:layout_marginTop="10dip"
+                android:src="@drawable/index_quick_huodaofukuan" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5.0dip"
+                android:text="货到付款"
+                android:textColor="@color/product_quck_listitem_color"
+                android:textSize="@dimen/micro_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/quick_jijian"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:layout_marginTop="10dip"
+                android:src="@drawable/index_quick_logistics" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5.0dip"
+                android:text="我要寄件"
+                android:textColor="@color/product_quck_listitem_color"
+                android:textSize="@dimen/micro_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/quick_history"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:layout_marginTop="10dip"
+                android:src="@drawable/index_quick_history" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5.0dip"
+                android:text="操作记录"
+                android:textColor="@color/product_quck_listitem_color"
+                android:textSize="@dimen/micro_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@id/login_page_input_name_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/login_editor_layout_edit_height"
+            android:background="@color/white" >
+
+            <TextView
+                android:id="@id/login_page_input_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:text="运单号"
+                android:textColor="@color/login_name_text_color"
+                android:textSize="@dimen/login_editor_layout_edit_text_size" />
+
+            <EditText
+                android:id="@+id/login_input_name"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5.0dip"
+                android:layout_toRightOf="@id/login_page_input_name"
+                android:background="@color/white"
+                android:hint="请输入或扫描运单号"
+                android:singleLine="true"
+                android:inputType="number"
+                android:textColor="@color/login_name_edit_color"
+                android:textColorHint="@color/login_edit_hint_text_color"
+                android:textSize="@dimen/login_editor_layout_edit_text_size" />
+
+            <ImageView
+                android:id="@+id/scan_button"
+                android:layout_width="28dip"
+                android:layout_height="28dip"
+                android:layout_alignRight="@id/login_input_name"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dip"
+                android:src="@drawable/index_scan_button_icon"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/order_sn_delete"
+                android:layout_width="@dimen/login_password_delete_width"
+                android:layout_height="@dimen/login_password_delete_width"
+                android:layout_alignBottom="@id/login_page_input_name"
+                android:layout_alignLeft="@+id/scan_button"
+                android:src="@drawable/login_delete_data_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/query_logistics"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/login_comfirm_button_height"
+            android:layout_marginLeft="@dimen/login_comfirm_button_margin_top"
+            android:layout_marginRight="@dimen/login_comfirm_button_margin_top"
+            android:layout_marginTop="@dimen/login_comfirm_button_margin_top"
+            android:background="@drawable/pd_add2car_bg"
+            android:gravity="center"
+            android:text="查询物流信息"
+            android:textColor="@color/white"
+            android:textSize="@dimen/login_comfirm_button_text_size" />
+    </LinearLayout>
+
+</LinearLayout>
